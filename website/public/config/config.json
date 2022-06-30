@@ -3,7 +3,7 @@
   "SCAN_LINK": "https://rinkeby.etherscan.io/tx/0x8de89be7624e9b78c2a353149fe1cd8eccf8c5faa9413b9c39b6512379ff3bdd",
   "NETWORK": {
     "NAME": "Polygon",
-    "SYMBOL": "Matic",
+    "SYMBOL": "ETH",
     "ID": 137
   },
   "NFT_NAME": "Paradelic Loot Crate",
