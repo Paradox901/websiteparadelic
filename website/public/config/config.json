@@ -2,7 +2,7 @@
   "CONTRACT_ADDRESS": "0x47138fa21101A61588Bd88c31E1b77a9b86cA3EC",
   "SCAN_LINK": "https://rinkeby.etherscan.io/tx/0x8de89be7624e9b78c2a353149fe1cd8eccf8c5faa9413b9c39b6512379ff3bdd",
   "NETWORK": {
-    "NAME": "Ethereum",
+    "NAME": "Ethereum Mainnet",
     "SYMBOL": "ETH",
     "ID": 137
   },
