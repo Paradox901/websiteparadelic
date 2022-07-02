@@ -1,16 +1,16 @@
 {
   "CONTRACT_ADDRESS": "0x47138fa21101A61588Bd88c31E1b77a9b86cA3EC",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/tx/0x8de89be7624e9b78c2a353149fe1cd8eccf8c5faa9413b9c39b6512379ff3bdd",
+  "SCAN_LINK": "https://etherscan.io/address/0x47138fa21101A61588Bd88c31E1b77a9b86cA3EC",
   "NETWORK": {
-    "NAME": "Ethereum Mainnet",
-    "SYMBOL": "ETH",
+    "NAME": "polygon",
+    "SYMBOL": "Matic",
     "ID": 137
   },
   "NFT_NAME": "Paradelic Loot Crate",
   "SYMBOL": "PLC",
   "MAX_SUPPLY": 100,
-  "WEI_COST": 40000000000000000,
-  "DISPLAY_COST": 0.04,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/paradelic-loot-crate",
