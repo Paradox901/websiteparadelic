@@ -2,8 +2,8 @@
   "CONTRACT_ADDRESS": "0x47138fa21101A61588Bd88c31E1b77a9b86cA3EC",
   "SCAN_LINK": "https://etherscan.io/address/0x47138fa21101A61588Bd88c31E1b77a9b86cA3EC",
   "NETWORK": {
-    "NAME": "polygon",
-    "SYMBOL": "Matic",
+    "NAME": "ETH",
+    "SYMBOL": "eth",
     "ID": 137
   },
   "NFT_NAME": "Paradelic Loot Crate",
