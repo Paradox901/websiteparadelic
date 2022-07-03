@@ -7,11 +7,11 @@
     "ID": 137
   },
   "NFT_NAME": "Paradelic Loot Crate",
-  "SYMBOL": "PLC",
+  "SYMBOL": "NFT",
   "MAX_SUPPLY": 100,
-  "WEI_COST": 0,
+  "WEI_COST": 40000000000000000,
   "DISPLAY_COST": 4,
-  "GAS_LIMIT": 285000,
+  "GAS_LIMIT": 300000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/paradelics-loot-crates",
   "SHOW_BACKGROUND": true
