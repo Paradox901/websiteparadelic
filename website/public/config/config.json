@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0x47138fa21101A61588Bd88c31E1b77a9b86cA3EC",
-  "SCAN_LINK": "https://etherscan.io/address/0x47138fa21101A61588Bd88c31E1b77a9b86cA3EC",
+  "CONTRACT_ADDRESS": "0x14Af76E955533739e46E5b8e8fF2886FB739F39e",
+  "SCAN_LINK": "https://polygonscan.com/address/0x14Af76E955533739e46E5b8e8fF2886FB739F39e",
   "NETWORK": {
-    "NAME": "ETH",
-    "SYMBOL": "eth",
+    "NAME": "Polygon",
+    "SYMBOL": "MATIC",
     "ID": 137
   },
   "NFT_NAME": "Paradelic Loot Crate",
   "SYMBOL": "PLC",
   "MAX_SUPPLY": 100,
   "WEI_COST": 0,
-  "DISPLAY_COST": 0,
+  "DISPLAY_COST": 4,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/paradelic-loot-crate",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/paradelics-loot-crates",
   "SHOW_BACKGROUND": true
 }
