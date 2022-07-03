@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xaEBCe2201D9b51A552D10C1B505878E5b9D8B717",
+  "SCAN_LINK": "https://polygonscan.com/token/0xaEBCe2201D9b51A552D10C1B505878E5b9D8B717",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Paradelics Loot Crates",
+  "SYMBOL": "NFT",
+  "MAX_SUPPLY": 100,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 300000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/the-stripes-nft",
+  "SHOW_BACKGROUND": true
+}
